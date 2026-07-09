@@ -1,85 +1,115 @@
+<!-- Profile README for github.com/Farid023 -->
+<!-- Repo name must be exactly: Farid023 -->
 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Farid Gurbanov</h1>
-<h3 align="center">I'm a Mobile Developer passionate about creating user-friendly and efficient mobile apps.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=200&section=header&text=Farid%20Gurbanov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<p align="center">Skilled in both native Android development and Flutter, I focus on delivering seamless experiences across platforms.</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=650&lines=Middle+Flutter+Developer+%40+Bank+Respublika;Production+banking+apps+for+iOS+%26+Android;Clean+Architecture+%7C+BLoC%2FCubit+%7C+Security-first;Open-source+author+on+pub.dev" alt="Typing SVG" />
+</a>
 
+<p>
+  <a href="https://linkedin.com/in/faridqurbanov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gurfdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://medium.com/@farid023"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://pub.dev/publishers/gurf.dev/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farid023&label=Profile%20views&color=0e75b6&style=flat" alt="farid023" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Farid023&label=Profile%20views&color=0175c2&style=flat" alt="Profile views"/>
 
-- 🔭 I’m currently working on **[TestMate](https://github.com/Farid023/TestMate)**
-
-- 🌱 I’m currently learning **Dart, Flutter, Android Development**
-
-- 👨‍💻 All of my apps are available on  [Google Play](https://play.google.com/store/apps/dev?id=7475205376724561666)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@farid023)
-
-- 📫 How to reach me **gurfdev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://linkedin.com/in/faridqurbanov" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://medium.com/@farid023" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-###
+## 👋 About Me
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+- 📱 **Flutter Developer with 3+ years of commercial experience** building scalable, high-performance mobile apps for **iOS & Android**.
+- 🏦 Currently at **Bank Respublika**, shipping **production banking apps** with security-critical features — JWT/OAuth, SSL pinning, biometric & PIN auth, and secure local storage.
+- 🧱 I care about **Clean Architecture**, **BLoC/Cubit**, and **SOLID** — reusable components, predictable state, maintainable code.
+- 🌍 Experienced across **fintech, e-commerce, fashion, and entertainment** domains, with freelance apps published on **Google Play** and the **App Store**.
+- 📦 Open-source author on **pub.dev** — building tools the Flutter community can rely on.
+- 📍 Based in **Baku, Azerbaijan** 🇦🇿
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Architecture & State Management**
+
+![BLoC](https://img.shields.io/badge/BLoC_/_Cubit-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-4B5563?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1F2937?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-6D28D9?style=for-the-badge)
+
+**Networking & Data**
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4353FF?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC100?style=for-the-badge&logo=apachehive&logoColor=black)
+![Secure Storage](https://img.shields.io/badge/Secure_Storage-2E7D32?style=for-the-badge)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+
+**UI, Analytics & Other**
+
+![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white)
+![Animations](https://img.shields.io/badge/Animations-FF6F61?style=for-the-badge)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-4B5563?style=for-the-badge)
+![Localization](https://img.shields.io/badge/Localization_(intl)-0175C2?style=for-the-badge)
+![Firebase Crashlytics](https://img.shields.io/badge/Crashlytics-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase Analytics](https://img.shields.io/badge/Firebase_Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/Push_Notifications_(FCM)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 </div>
 
-###
+---
 
-<div align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Farid023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farid023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Farid023&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Farid023">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Farid023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/Farid023">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid023&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Farid023&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Farid023&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/Farid023/Farid023/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=120&section=footer" width="100%" alt="footer"/>
 
-
-
-
-
-
-
-
-
-
-
-<!--
-**Farid023/Farid023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
